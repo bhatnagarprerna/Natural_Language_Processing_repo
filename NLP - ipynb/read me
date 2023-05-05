@@ -1,0 +1,10 @@
+Natural Lanaguage processing from start  - 
+Intalling nltk package in conda
+Counting stopwords
+Tokenise
+Stemming
+Lemmetization
+Count vectorizer - word frequency
+Data Cleaning - removing numbers and stopwords
+K means Clustering
+Wordcloud generation for each cluster
