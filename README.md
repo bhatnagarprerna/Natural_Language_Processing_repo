@@ -13,7 +13,7 @@
 There are many libraries that help up do basic NLP tasks, some of the most popular are
 # 1. NLTK
 <img src="https://miro.medium.com/max/640/1*YM2HXc7f4v02pZBEO8h-qw.webp" alt="" width="200" height="200">
-# 2. Spacy
+# 2. SPACY
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1920px-SpaCy_logo.svg.png" alt="" width="300" height="200">
 # 3. Gensim
 <img src="https://repository-images.githubusercontent.com/1349775/202c4680-8f7c-11e9-91c6-745fdcbeffe8" alt="" width="300" height="200">
